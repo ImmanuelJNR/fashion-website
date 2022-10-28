@@ -667,16 +667,9 @@ nav #harmbuger{
     background-repeat: no-repeat;
     background-position: center;
     object-fit: cover;
-
-    /* animation-name: slide-in-left;
-    animation-duration: 5s; */
 }
 
-/* @keyframes slide-in-left {
-    from{margin-right: 0px; margin-left: 0px;}
-    to{margin-right: 0px; margin-left: 200px;}
-    
-} */
+
 
 #child{
     display: flex;
